@@ -1,4 +1,4 @@
-# Coursera_MachineLearning_AnomalyDetection
+#AnomalyDetection
 
 This repository implements an anomaly detection algorithm using multivariate normal distribution and applies to a computer server data set.
 
